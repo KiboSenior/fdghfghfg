@@ -12,7 +12,6 @@
 **Version:** v1.0  
 **Created by:** [Senior (YourSenior)](https://www.instagram.com/yoursenioryt)  
 **Division:** Spy Interactive • SeniorNetwork
-**Command:** java -jar MCBOT.jar IP:PORT 340 METHOD 600 -1
 ---
 
 ## ⚠️ DISCLAIMER
@@ -20,6 +19,7 @@
 > This script is built for **educational**, **defensive**, and **stress-testing** purposes ONLY.  
 > We do **NOT** support or encourage illegal activities like attacking public or private servers without permission.  
 > Use responsibly in isolated environments, with full consent of server owners.
+> ```**Command:** java -jar MCBOT.jar IP:PORT 340 METHOD 600 -1```
 
 ---
 
