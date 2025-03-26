@@ -12,7 +12,7 @@
 **Version:** v1.0  
 **Created by:** [Senior (YourSenior)](https://www.instagram.com/yoursenioryt)  
 **Division:** Spy Interactive • SeniorNetwork
-
+**Command:** java -jar MCBOT.jar IP:PORT 340 METHOD 600 -1
 ---
 
 ## ⚠️ DISCLAIMER
