@@ -19,7 +19,8 @@
 > This script is built for **educational**, **defensive**, and **stress-testing** purposes ONLY.  
 > We do **NOT** support or encourage illegal activities like attacking public or private servers without permission.  
 > Use responsibly in isolated environments, with full consent of server owners.
-> ```**Command:** java -jar MCBOT.jar IP:PORT 340 METHOD 600 -1```
+> 
+> ```Command: java -jar MCBOT.jar IP:PORT 340 METHOD 600 -1```
 
 ---
 
