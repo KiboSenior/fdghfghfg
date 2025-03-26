@@ -12,6 +12,7 @@
 **Version:** v1.0  
 **Created by:** [Senior (YourSenior)](https://www.instagram.com/yoursenioryt)  
 **Division:** Spy Interactive • SeniorNetwork
+
 ---
 
 ## ⚠️ DISCLAIMER
