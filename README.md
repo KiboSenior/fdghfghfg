@@ -118,7 +118,7 @@ test
 
 ## 🧤 Credits
 
-> 💻 Coded by: **Senior (Devankit)**  
+> 💻 Coded by: **Senior**  
 > 🧠 Concept: **Spy Interactive**  
 > 🔗 Hosted under: **SeniorNetwork / SpyMC**
 
